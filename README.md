@@ -8,4 +8,4 @@
 - CSS,
 - JS
 
-[Смотреть демо](/ "LevelUp")
+[Смотреть демо](https://level-up-eosin.vercel.app "LevelUp")
